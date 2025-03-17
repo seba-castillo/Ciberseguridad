@@ -1,1 +1,2 @@
-- [1_Security_and_threat_intelligence](/3_Threat_Intelligence_Sharing/1_Security_and_threat_intelligence)
+- [1 Security and threat intelligence](/3_Threat_Intelligence_Sharing/1_Security_and_threat_intelligence.md)
+- [2 Intelligence cycle](/3_Threat_Intelligence_Sharing/2_Intelligence_Cycle.md)
